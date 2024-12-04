@@ -81,7 +81,9 @@ nav ul {
   list-style-type: none;
 }
 
-
+.btn{
+  background-color: green;
+}
 .card button {
   background: #01579b;
 }
